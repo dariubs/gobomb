@@ -3,6 +3,9 @@ gobomb
 
 Fork bomb for golang.
 
+***sponsored by [Altern](https://altern.ai), an AI Products directory***
+
+
 Install
 -------
 
